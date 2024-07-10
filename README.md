@@ -1,4 +1,4 @@
-![MasterHead](<img align="center" src="https://imgs.search.brave.com/1_Ym76WG5xQGeJY-CEgTsf3QcKDyxUJl7Ilq1daAisg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LXNraWxscy1sb2Fk/aW5nLWRrNjh2OHow/aGV2anB1aXYuZ2lm.gif" alt="MasterHead" width="500" height="200" />)
+<img align="center" src="https://imgs.search.brave.com/1_Ym76WG5xQGeJY-CEgTsf3QcKDyxUJl7Ilq1daAisg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LXNraWxscy1sb2Fk/aW5nLWRrNjh2OHow/aGV2anB1aXYuZ2lm.gif" alt="MasterHead" width="500" height="300" />
 <h1 align="center">Hi 👋, I'm Shishir Dhakal</h1>
 <h3 align="center">"Aspiring web developer with a passion for crafting elegant and efficient code. Eager to tackle challenges and continuously expand my skills in the dynamic world of web development."</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishir-code365&label=Profile%20views&color=0e75b6&style=flat" alt="shishir-code365" /> </p>
